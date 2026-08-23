@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dialysis Awareness</string>
+    <string name="welcome">Welcome to Dialysis Awareness</string>
+    <string name="manage_health">Manage your health and stay informed</string>
+</resources>

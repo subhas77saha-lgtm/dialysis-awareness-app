@@ -1,4 +1,4 @@
-name: Build Dialysis Awareness
+Fix Gradle plugin repository configuration for Android build: Build Dialysis Awareness
 
 on:
   workflow_dispatch:
